@@ -1,0 +1,9 @@
+pdfplumber
+pdf2image
+pytesseract
+pandas
+gspread
+google-auth
+PyMuPDF
+openpyxl
+pytest
