@@ -1,6 +1,6 @@
 # NUVE Violence Detection System
 
-Sistema de detecção automatizada de violência em prontuários eletrônicos utilizando processamento de linguagem natural baseado em regras lexicais.
+Sistema de detecção automatizada de violência em prontuários eletrônicos utilizando processamento baseado em regras lexicais.
 
 ## 📋 Sobre o Projeto
 
